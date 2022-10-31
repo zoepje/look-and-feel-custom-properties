@@ -1,101 +1,36 @@
 
-# [sprintnaam] - [deeltaak-naam]
+# Look and Feel - Custom Properties
 
-Beschrijving van de deeltaak
+Gebruik Custom Properties voor jou CSS strategy
 
 ## Context
 
-Deze leertaak hoort bij sprint # [sprintnaam]. Dit is een deeltaak die je [individueel / in een team] uitvoert.
+Deze deeltaak hoort bij sprint 4 Look and Feel. Dit is een deeltaak die je individueel uitvoert.
 
-In het college [[collegenaam](link)] wordt behandeld ... 
+In het college ... wordt uitgelegd wat Custom Properties zijn
 
 
 ## Doel van deze opdracht
 
-Je leert hoe je ... 
+Je leert wat custom properties zijn en hoe je ze kan gebruiken voor een slimmere, en beter onderhoudbare CSS strategy.
 
 
 ## Werkwijze
-![Opdrachtomschrijving](opdrachtomschrijving.png)
 
-*Hoe pak je dit aan, in welke fases van de DLC*
+...
 
-Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen)
-
-### Analyseren
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-### Ontwerpen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-
-### Bouwen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-### Integreren
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-- 
-### Testen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
+- ...
+- ...
+- ...
 
 ## Criteria
 
-Focus sprint # - De focus van deze sprint ligt op ...
+Focus sprint 4 - De focus van deze sprint ligt op het toepassen van een huisstijl en het maken van formulieren.
 
 Deze deeltaak hoort bij het gedragscriterium:  
-...
+P: Gebruikt aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
 
-Deze opdracht is done als:
+Deze opdracht is done als je:
 
 - [ ] ...
 - [ ] ...
