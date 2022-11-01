@@ -28,7 +28,7 @@ Je leert wat custom properties zijn en hoe je ze kan gebruiken voor een slimmere
 Focus sprint 4 - De focus van deze sprint ligt op het toepassen van een huisstijl en het maken van formulieren.
 
 Deze deeltaak hoort bij het gedragscriterium:  
-P: Gebruikt aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
+Probleemoplossend vermogen: Je gebruikt aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
 
 Deze opdracht is done als je:
 
