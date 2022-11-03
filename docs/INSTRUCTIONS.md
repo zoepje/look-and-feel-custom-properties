@@ -1,7 +1,7 @@
 
 # Look and Feel - Custom Properties
 
-Gebruik Custom Properties voor jou CSS strategy
+Pas Custom Properties toe in CSS.
 
 ## Context
 
