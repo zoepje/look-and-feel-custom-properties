@@ -7,21 +7,21 @@ Pas Custom Properties toe in CSS.
 
 Deze deeltaak hoort bij sprint 4 Look and Feel. Dit is een deeltaak die je individueel uitvoert.
 
-In het college ... wordt uitgelegd wat Custom Properties zijn
-
+In het college Workshop CSS voor Styleguides wordt uitgelegd hoe je CSS slimmer kan inzetten.
 
 ## Doel van deze opdracht
 
-Je leert wat custom properties zijn en hoe je ze kan gebruiken voor een slimmere, en beter onderhoudbare CSS strategy.
+Je leert wat custom properties en container queries zijn en hoe je ze kan gebruiken voor een slimmere, consistentere en beter onderhoudbare CSS strategy.
 
 
 ## Werkwijze
 
-...
+CSS voor styleguides zit in de ontwerp en bouwfase. Je hebt een eerste opzet van de styleguide gemaakt en nu ga je de code refactoren met custom properties, container queries en structuur.
 
-- ...
-- ...
-- ...
+- Fork deze leertaak
+- Gebruik custom properties voor CSS properties die meerdere keren voorkomen
+- Breng structuur aan in je CSS
+- Pas container queries toe (optioneel)
 
 ## Criteria
 
@@ -32,7 +32,6 @@ Probleemoplossend vermogen: Je gebruikt aangeboden principes en conventies op he
 
 Deze opdracht is done als je:
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] custom properties en een betere structuur hebt toegepast in de living styleguide
+- [ ] de living styleguide te bekijken is via Github pages
 
