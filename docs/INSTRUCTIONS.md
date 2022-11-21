@@ -1,7 +1,7 @@
 
 # Look and Feel - Custom Properties
 
-Pas Custom Properties toe in CSS, breng structuur aan in jouw CSS file en gebruik container queries.
+Pas custom properties toe in CSS, breng structuur aan in jouw CSS file en maak gebruik van container queries.
 
 ## Context
 
@@ -19,9 +19,11 @@ Je leert wat custom properties en container queries zijn en hoe je ze kan gebrui
 CSS voor styleguides zit in de analyseren en bouwfase. Je hebt een eerste opzet van de styleguide gemaakt en nu ga je de code refactoren met custom properties, container queries en structuur.
 
 **Analyseren**
+
 Bekijk welke elementen in de livingstyleguide geschreven kunnen worden als custom properties in CSS. Denk bijvoorbeeld aan kleuren, spacing en font-sizes. Wanneer je jezelf aan het herhalen bent, bekijk dan of je custom properties kan inzetten. 
 
 **Bouwen**
+
 Fork deze leertaak en bepaal de strucuur van jouw CSS bestand. Let op de volgende tips:
 - Dry
 - Leesbaarheid
@@ -30,9 +32,9 @@ Fork deze leertaak en bepaal de strucuur van jouw CSS bestand. Let op de volgend
 - Voeg comments toe waar nodig
 - Denk ik componenten (partials en blokken)
 
-Beschrijf in de wiki van de leertaak welke structuur jij toepast in jouw CSS bestand. Welke principes hanteer jij? Is er een bepaalde methode die je hanteert? 
+Beschrijf in de wiki van de leertaak welke structuur jij toepast in jouw CSS bestand. Welke principes hanteer jij? Is er een bepaalde methode die je gebruikt? 
 
-Tenslotte verdiep je je in container queries. Wat kun je er precies mee en hoe werken ze? Pas deze toe in jouw project.
+Tenslotte verdiep je je in container queries. Wat kun je er precies mee en hoe werken ze? Gebruik ze in de leertaak Corporate identity. 
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries
 https://codepen.io/Sidstumple/pen/PoajJxm
