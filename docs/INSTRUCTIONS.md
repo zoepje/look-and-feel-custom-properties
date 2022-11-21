@@ -32,6 +32,7 @@ Probleemoplossend vermogen: Je gebruikt aangeboden principes en conventies op he
 
 Deze opdracht is done als je:
 
-- [ ] custom properties en een betere structuur hebt toegepast in de living styleguide
-- [ ] de living styleguide te bekijken is via Github pages
+- [ ] custom properties gebruikt
+- [ ] een betere structuur hebt toegepast in jouw CSS bestand(en) en dit hebt gedocumenteerd in de wiki van de leertaak
+- [ ] container queries of media queries op basis van styles hebt gebruikt
 
