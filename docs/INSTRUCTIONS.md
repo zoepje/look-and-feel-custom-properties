@@ -1,7 +1,7 @@
 
 # Look and Feel - Custom Properties
 
-Pas Custom Properties toe in CSS.
+Pas Custom Properties toe in CSS, breng structuur aan in jouw CSS file en gebruik container queries.
 
 ## Context
 
@@ -11,17 +11,31 @@ In het college Workshop CSS voor Styleguides wordt uitgelegd hoe je CSS slimmer 
 
 ## Doel van deze opdracht
 
-Je leert wat custom properties en container queries zijn en hoe je ze kan gebruiken voor een slimmere, consistentere en beter onderhoudbare CSS strategy.
+Je leert wat custom properties en container queries zijn en hoe je ze kan gebruiken voor een slimmere, consistentere en beter onderhoudbare CSS. Daarnaast kijken we ook hoe je jouw CSS bestand kan structureren. 
 
 
 ## Werkwijze
 
-CSS voor styleguides zit in de ontwerp en bouwfase. Je hebt een eerste opzet van de styleguide gemaakt en nu ga je de code refactoren met custom properties, container queries en structuur.
+CSS voor styleguides zit in de analyseren en bouwfase. Je hebt een eerste opzet van de styleguide gemaakt en nu ga je de code refactoren met custom properties, container queries en structuur.
 
-- Fork deze leertaak
-- Gebruik custom properties voor CSS properties die meerdere keren voorkomen
-- Breng structuur aan in je CSS
-- Pas container queries toe (optioneel)
+**Analyseren**
+Bekijk welke elementen in de livingstyleguide geschreven kunnen worden als custom properties in CSS. Denk bijvoorbeeld aan kleuren, spacing en font-sizes. Wanneer je jezelf aan het herhalen bent, bekijk dan of je custom properties kan inzetten. 
+
+**Bouwen**
+Fork deze leertaak en bepaal de strucuur van jouw CSS bestand. Let op de volgende tips:
+- Dry
+- Leesbaarheid
+- Is het duidelijk voor teamleden?
+- Begin met custom properties, reset en utility classes
+- Voeg comments toe waar nodig
+- Denk ik componenten (partials en blokken)
+
+Beschrijf in de wiki van de leertaak welke structuur jij toepast in jouw CSS bestand. Welke principes hanteer jij? Is er een bepaalde methode die je hanteert? 
+
+Tenslotte verdiep je je in container queries. Wat kun je er precies mee en hoe werken ze? Pas deze toe in jouw project.
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries
+https://codepen.io/Sidstumple/pen/PoajJxm
 
 ## Criteria
 
