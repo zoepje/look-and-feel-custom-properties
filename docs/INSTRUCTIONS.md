@@ -37,9 +37,9 @@ Beschrijf in de wiki van de leertaak welke structuur jij toepast in jouw CSS bes
 Tenslotte verdiep je je in container queries. Wat kun je er precies mee en hoe werken ze? Gebruik ze in de leertaak Corporate identity. 
 
 ## Bronnen
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries
-https://codepen.io/Sidstumple/pen/PoajJxm
-https://css-tricks.com/a-complete-guide-to-custom-properties/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries
+- https://codepen.io/Sidstumple/pen/PoajJxm
+- https://css-tricks.com/a-complete-guide-to-custom-properties/
 
 ## Criteria
 
