@@ -40,6 +40,7 @@ Tenslotte verdiep je je in container queries. Wat kun je er precies mee en hoe w
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries
 - https://codepen.io/Sidstumple/pen/PoajJxm
 - https://css-tricks.com/a-complete-guide-to-custom-properties/
+- https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
 
 ## Criteria
 
