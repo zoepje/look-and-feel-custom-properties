@@ -3,3 +3,5 @@ Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uit
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 ## Licentie
+
+This project is licensed under the terms of the [MIT license](./LICENSE).
