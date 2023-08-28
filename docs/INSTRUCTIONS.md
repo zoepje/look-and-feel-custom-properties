@@ -9,10 +9,12 @@ Deze deeltaak hoort bij sprint 4 Look and Feel. Dit is een deeltaak die je indiv
 
 In het college Workshop CSS voor Styleguides wordt uitgelegd hoe je CSS slimmer kan inzetten.
 
+Deze deeltaak hoort bij de leertaak:
+- [Look and feel - Corporate identity](https://github.com/fdnd-task/look-and-feel-corporate-identity)
+
 ## Doel van deze opdracht
 
 Je leert wat custom properties en container queries zijn en hoe je ze kan gebruiken voor een slimmere, consistentere en beter onderhoudbare CSS. Daarnaast kijken we ook hoe je jouw CSS bestand kan structureren. 
-
 
 ## Werkwijze
 
@@ -43,12 +45,9 @@ Tenslotte verdiep je je in container queries. Wat kun je er precies mee en hoe w
 - [CSS naming conventions that will save you hours of debugging](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/)
 - [Basis voorbeeld template HTML & CSS structuur](https://codepen.io/joostf/pen/xEpmLx)
 
-## Criteria
+## Definition of done
 
 Focus sprint 4 - De focus van deze sprint ligt op het toepassen van een huisstijl en het maken van formulieren.
-
-Deze deeltaak hoort bij het gedragscriterium:  
-Probleemoplossend vermogen: Je gebruikt aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
 
 Deze opdracht is done als je:
 
