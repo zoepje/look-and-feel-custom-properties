@@ -1,7 +1,7 @@
 
 # Look and Feel - Custom Properties
 
-Pas custom properties toe in CSS, breng structuur aan in jouw CSS file en maak gebruik van container queries.
+Pas custom properties toe in CSS, breng structuur aan in jouw CSS file en gebruik conventies
 
 ## Context
 
@@ -14,17 +14,17 @@ Deze deeltaak hoort bij de leertaak:
 
 ## Doel van deze opdracht
 
-Je leert wat custom properties en container queries zijn en hoe je ze kan gebruiken voor een slimmere, consistentere en beter onderhoudbare CSS. Daarnaast kijken we ook hoe je jouw CSS bestand kan structureren. 
+Je leert wat custom properties zijn en hoe je ze kan gebruiken voor een slimmere, consistentere en beter onderhoudbare CSS. Daarnaast kijken we ook hoe je jouw CSS bestand kan structureren. 
 
 ## Werkwijze
 
-CSS voor styleguides zit in de analyseren en bouwfase. Je hebt een eerste opzet van de styleguide gemaakt en nu ga je de code refactoren met custom properties, container queries en structuur.
+CSS voor styleguides zit in de analyse- en ontwerp/bouwfase. Je hebt een eerste opzet van de styleguide gemaakt en nu ga je de code refactoren met custom properties, structuur en conventies.
 
 **Analyseren**
 
 Bekijk welke elementen in de livingstyleguide geschreven kunnen worden als custom properties in CSS. Denk bijvoorbeeld aan kleuren, spacing en font-sizes. Wanneer je jezelf aan het herhalen bent, bekijk dan of je custom properties kan inzetten. 
 
-**Bouwen**
+**Ontwerp/bouwen**
 
 Fork deze leertaak en bepaal de strucuur van jouw CSS bestand. Let op de volgende tips:
 - Dry
@@ -36,11 +36,8 @@ Fork deze leertaak en bepaal de strucuur van jouw CSS bestand. Let op de volgend
 
 Beschrijf in de wiki van de leertaak welke structuur jij toepast in jouw CSS bestand. Welke principes hanteer jij? Is er een bepaalde methode die je gebruikt? 
 
-Tenslotte verdiep je je in container queries. Wat kun je er precies mee en hoe werken ze? Gebruik ze in de leertaak Corporate identity. 
 
 ## Bronnen
-- [Container Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries)
-- [Cyd Container Query testjes](https://codepen.io/Sidstumple/pen/PoajJxm)
 - [A complete guide to Custom Properties](https://css-tricks.com/a-complete-guide-to-custom-properties/)
 - [CSS naming conventions that will save you hours of debugging](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/)
 - [Basis voorbeeld template HTML & CSS structuur](https://codepen.io/joostf/pen/xEpmLx)
@@ -51,7 +48,7 @@ Focus sprint 4 - De focus van deze sprint ligt op het toepassen van een huisstij
 
 Deze opdracht is done als je:
 
-- [ ] custom properties gebruikt
-- [ ] een betere structuur hebt toegepast in jouw CSS bestand(en) en dit hebt gedocumenteerd in de wiki van de leertaak
-- [ ] container queries of media queries op basis van styles hebt gebruikt
+- [ ] custom properties gebruikt voor properties die 
+- [ ] een duidelijke structuur hebt toegepast in jouw CSS bestand(en) en dit hebt gedocumenteerd in de wiki van de leertaak
+
 
