@@ -32,7 +32,7 @@ Fork deze leertaak en bepaal de strucuur van jouw CSS bestand. Let op de volgend
 - Is het duidelijk voor teamleden?
 - Begin met custom properties, reset en utility classes
 - Voeg comments toe waar nodig
-- Denk ik componenten (partials en blokken)
+- Denk in componenten (partials en blokken)
 
 Beschrijf in de wiki van de leertaak welke structuur jij toepast in jouw CSS bestand. Welke principes hanteer jij? Is er een bepaalde methode die je gebruikt? 
 
@@ -48,7 +48,8 @@ Focus sprint 4 - De focus van deze sprint ligt op het toepassen van een huisstij
 
 Deze opdracht is done als je:
 
-- [ ] custom properties gebruikt voor properties die 
+- [ ] custom properties gebruikt voor veelvoorkomden waardes
+- [ ] code conventies hebt toegepast en dit hebt gedocumenteerd in de wiki van de leertaak
 - [ ] een duidelijke structuur hebt toegepast in jouw CSS bestand(en) en dit hebt gedocumenteerd in de wiki van de leertaak
 
 
