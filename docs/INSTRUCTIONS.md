@@ -32,9 +32,11 @@ Bekijk welke elementen uit de living styleguide in CSS geschreven kunnen worden 
 Fork deze deeltaak. 
 
 Maak voor een aantal huisstijl elementen de HTML en CSS. 
-Teken zo nodig een breakdown-schets om duidelijk te krijgen wat je gaat coderen. Teken de elementen die ja geaat maken, maak aantekeningen voor de HTML, de CSS en welke Custom properties je gaat toepassen. Gebruik de Living Styleguide met code voorbeelden...
-
 Structureer de CSS met custom properties, pas een goede structuur toe en gebruik conventies zoals dry, leesbaarheid van de code en naamgeving.
+
+Teken zo nodig een breakdown-schets om duidelijk te krijgen wat je gaat coderen. Teken de elementen die ja gaat maken, maak aantekeningen voor de HTML, de CSS en welke Custom properties je gaat toepassen. Gebruik de Living Styleguide met code voorbeelden...
+
+
 
 Beschrijf in de wiki van de leertaak welke structuur jij toepast in jouw CSS bestand; leg de custom properties uit die je hebt gebruikt en welke principes je hebt toegpast om de CSS te structureren. 
 
