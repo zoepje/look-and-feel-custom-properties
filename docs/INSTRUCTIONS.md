@@ -14,7 +14,7 @@ Deze deeltaak hoort bij de leertaak:
 
 ## Doel van deze opdracht
 
-Je leert wat custom properties zijn en hoe je ze kan gebruiken voor een slimmere, consistentere en beter onderhoudbare CSS. Daarnaast kijken we ook hoe je jouw CSS bestand kan structureren. 
+Je leert wat custom properties zijn en hoe je ze kan gebruiken voor slimme, consistente en beter gestructureerde CSS. 
 
 ## Werkwijze
 
