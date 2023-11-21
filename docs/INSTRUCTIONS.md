@@ -29,7 +29,7 @@ Fork deze deeltaak en kopieer de CSS en HTML van de styleguide die je met een te
 
 Bekijk welke elementen in de livingstyleguide geschreven kunnen worden als custom properties in CSS. Denk bijvoorbeeld aan kleuren, spacing en font-sizes. Wanneer je jezelf aan het herhalen bent, bekijk dan of je custom properties kan inzetten. 
 
-### Ontwerp/bouwen**
+### Ontwerp/bouwen
 
 Structureer de CSS met custom properties, pas een goede structuur toe en gebbruik conventies zoals dry, leesbaarheid van de code en naamgeving.
 
