@@ -31,7 +31,7 @@ Bekijk welke elementen in de livingstyleguide geschreven kunnen worden als custo
 
 ### Ontwerpen/bouwen
 
-Structureer de CSS met custom properties, pas een goede structuur toe en gebbruik conventies zoals dry, leesbaarheid van de code en naamgeving.
+Structureer de CSS met custom properties, pas een goede structuur toe en gebruik conventies zoals dry, leesbaarheid van de code en naamgeving.
 
 Beschrijf in de wiki van de leertaak welke structuur jij toepast in jouw CSS bestand; leg de custom properties uit die je hebt gebruikt en welke principes je hebt toegpast om de CSS te structureren. 
 
