@@ -25,7 +25,7 @@ Je hebt een eerste opzet van de Living Styleguide gemaakt en nu ga je een gestru
 
 ### Analyseren
 
-Bekijk welke elementen uit de living styleguide in CSS geschreven kunnen worden met custom properties. Denk bijvoorbeeld aan kleuren, spacing en font-sizes. Wanneer je jezelf aan het herhalen bent, bekijk dan of je custom properties kan inzetten. 
+Bekijk welke elementen uit de living styleguide in CSS geschreven kunnen worden met custom properties. Denk bijvoorbeeld aan kleuren, font-sizes, borders, breedtes en/of hoogtes van elementen.  Wanneer waardes vaker voorkomen, kijk dan of je custom properties kan gebruiken. 
 
 ### Ontwerpen/bouwen
 
