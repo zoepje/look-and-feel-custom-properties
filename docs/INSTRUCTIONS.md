@@ -25,13 +25,14 @@ Je hebt een eerste opzet van de Living Styleguide gemaakt en nu ga je een gestru
 
 ### Analyseren
 
-Bekijk welke elementen uit de living styleguide in CSS geschreven kunnen worden met custom properties. Denk bijvoorbeeld aan kleuren, font-sizes, borders, breedtes en/of hoogtes van elementen.  Als waardes vaker voorkomen, kijk dan of je custom properties kan gebruiken. 
+Bekijk welke elementen uit de living styleguide in CSS geschreven kunnen worden met custom properties. Denk bijvoorbeeld aan kleuren, font-sizes, borders, breedtes en/of hoogtes van elementen.  Als waardes vaker voorkomen, kun je custom properties gebruiken. 
 
 ### Ontwerpen/bouwen
 
 Fork deze deeltaak. 
 
 Maak voor een aantal huisstijl elementen de HTML en CSS. 
+Teken zo nodig een breakdown-schets om duidelijk te krijgen wat je gaat coderen. Teken de elementen die ja geaat maken, maak aantekeningen voor de HTML, de CSS en welke Custom properties je gaat toepassen. Gebruik de Living Styleguide met code voorbeelden...
 
 Structureer de CSS met custom properties, pas een goede structuur toe en gebruik conventies zoals dry, leesbaarheid van de code en naamgeving.
 
