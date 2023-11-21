@@ -1,7 +1,7 @@
 
 # Look and Feel - Custom Properties
 
-Pas custom properties toe in CSS, breng structuur aan in jouw CSS file en gebruik conventies
+Pas custom properties toe in CSS en breng structuur aan in een CSS file.
 
 ## Context
 
@@ -18,38 +18,46 @@ Je leert wat custom properties zijn en hoe je ze kan gebruiken voor een slimmere
 
 ## Werkwijze
 
-CSS voor styleguides zit in de analyse- en ontwerp/bouwfase. Je hebt een eerste opzet van de styleguide gemaakt en nu ga je de code refactoren met custom properties, structuur en conventies.
+CSS voor styleguides zit in de [analyse](#analyseren)- en [ontwerp/bouwfase](#ontwerpen-bouwen). 
 
-**Analyseren**
+Je hebt een eerste opzet van de styleguide gemaakt en nu ga je de code refactoren met custom properties, structuur en conventies.
+
+Fork deze deeltaak en kopieer de CSS en HTML van de styleguide die je met een team hebt gemaakt, (of gebruik de code uit een vorige sprint). 
+
+
+### Analyseren
 
 Bekijk welke elementen in de livingstyleguide geschreven kunnen worden als custom properties in CSS. Denk bijvoorbeeld aan kleuren, spacing en font-sizes. Wanneer je jezelf aan het herhalen bent, bekijk dan of je custom properties kan inzetten. 
 
-**Ontwerp/bouwen**
+### Ontwerp/bouwen**
 
-Fork deze leertaak en bepaal de strucuur van jouw CSS bestand. Let op de volgende tips:
-- Dry
-- Leesbaarheid
-- Is het duidelijk voor teamleden?
-- Begin met custom properties, reset en utility classes
-- Voeg comments toe waar nodig
-- Denk in componenten (partials en blokken)
+Structureer de CSS met custom properties, pas een goede structuur toe en gebbruik conventies zoals dry, leesbaarheid van de code en naamgeving.
 
-Beschrijf in de wiki van de leertaak welke structuur jij toepast in jouw CSS bestand. Welke principes hanteer jij? Is er een bepaalde methode die je gebruikt? 
+Beschrijf in de wiki van de leertaak welke structuur jij toepast in jouw CSS bestand; leg de custom properties uit die je hebt gebruikt en welke principes je hebt toegpast om de CSS te structureren. 
+
+
+#### Voor gevorderden
+
+Als je al vaker met custom properties hebt gewerkt, lees dan het artikel [A complet guide to Custom Properties](https://css-tricks.com/a-complete-guide-to-custom-properties/) en probeer verschillende technieken en ideeen toe te passen, zoals: 
+- Dark mode
+- Custom properties en Media queries
+- Custom properties and JavaScript
+- ...
+
 
 
 ## Bronnen
 - [A complete guide to Custom Properties](https://css-tricks.com/a-complete-guide-to-custom-properties/)
 - [CSS naming conventions that will save you hours of debugging](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/)
-- [Basis voorbeeld template HTML & CSS structuur](https://codepen.io/joostf/pen/xEpmLx)
+<!-- - [Using CSS custom properties like this is a waste](https://www.youtube.com/watch?v=_2LwjfYc1x8)-->
+<!-- - [Basis voorbeeld template HTML & CSS structuur](https://codepen.io/joostf/pen/xEpmLx) -->
+
 
 ## Definition of done
 
-Focus sprint 4 - De focus van deze sprint ligt op het toepassen van een huisstijl en het maken van formulieren.
+Deze opdracht is done als:
 
-Deze opdracht is done als je:
-
-- [ ] custom properties gebruikt voor veelvoorkomden waardes
-- [ ] code conventies hebt toegepast en dit hebt gedocumenteerd in de wiki van de leertaak
-- [ ] een duidelijke structuur hebt toegepast in jouw CSS bestand(en) en dit hebt gedocumenteerd in de wiki van de leertaak
+- [ ] je hebt custom properties gebruikt en in de wiki uitgelegd hoe jouw code werkt
+- [ ] je hebt een duidelijke structuur toegepast in jouw CSS bestand(en) en dit gedocumenteerd in de wiki
 
 
