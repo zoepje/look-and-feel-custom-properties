@@ -20,16 +20,18 @@ Je leert wat custom properties zijn en hoe je ze kan gebruiken voor slimme, cons
 
 Deze opdracht gaat over de [analyse-](#analyseren) en [ontwerp/bouwfase](#ontwerpenbouwen) van de DLC.
 
-Je hebt een eerste opzet van de styleguide gemaakt en nu ga je de code refactoren met custom properties, structuur en conventies.
-
-Fork deze deeltaak en kopieer de CSS en HTML van de styleguide die je met een team hebt gemaakt, (of gebruik de code uit een vorige sprint). 
+Je hebt een eerste opzet van de Living Styleguide gemaakt en nu ga je een gestructureerd CSS file maken met custom properties, structuur en conventies.
 
 
 ### Analyseren
 
-Bekijk welke elementen in de livingstyleguide geschreven kunnen worden als custom properties in CSS. Denk bijvoorbeeld aan kleuren, spacing en font-sizes. Wanneer je jezelf aan het herhalen bent, bekijk dan of je custom properties kan inzetten. 
+Bekijk welke elementen uit de living styleguide in CSS geschreven kunnen worden met custom properties. Denk bijvoorbeeld aan kleuren, spacing en font-sizes. Wanneer je jezelf aan het herhalen bent, bekijk dan of je custom properties kan inzetten. 
 
 ### Ontwerpen/bouwen
+
+Fork deze deeltaak. 
+
+Maak voor een aantal huisstijl elementen de HTML en CSS. 
 
 Structureer de CSS met custom properties, pas een goede structuur toe en gebruik conventies zoals dry, leesbaarheid van de code en naamgeving.
 
