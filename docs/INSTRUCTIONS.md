@@ -18,7 +18,7 @@ Je leert wat custom properties zijn en hoe je ze kan gebruiken voor slimme, cons
 
 ## Werkwijze
 
-CSS voor styleguides zit in de [analyse](#analyseren)- en [ontwerp/bouwfase](#ontwerpen-bouwen). 
+CSS voor styleguides zit in de [analyse](#analyseren)- en [ontwerp/bouwfase](#ontwerpenbouwen). 
 
 Je hebt een eerste opzet van de styleguide gemaakt en nu ga je de code refactoren met custom properties, structuur en conventies.
 
