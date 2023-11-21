@@ -1,7 +1,7 @@
 
 # Look and Feel - Custom Properties
 
-Pas custom properties toe in CSS en breng structuur aan in een CSS file.
+Pas custom properties toe en breng structuur aan in een CSS file.
 
 ## Context
 
