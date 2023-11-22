@@ -58,14 +58,6 @@ h2:hover{
 	font-size: var(--smallFontsize);
 }
 
-h4{
-	transition: 1s;
-}
-
-h4:hover{
-	font-family: var(--secondaryFont);
-}
-
 h3:hover{
 	color: var(--primaryColor);
 }
