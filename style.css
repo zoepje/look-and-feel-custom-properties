@@ -1,0 +1,101 @@
+:root{
+	/* Font */
+	--primaryFont: system-ui, -apple-system, Roboto, 'Open Sans', sans-serif;
+	--secondaryFont: system-ui, -apple-system, Verdana, sans-serif;
+	--headingSize1: 5em;
+	--headingSize2: 2em;
+	--headingSize3: 1em;
+	--textFontsize: 18px;
+	--smallFontsize: 0.7em;
+	
+	/* Kleuren */
+	--primaryColor: #388087;
+	--secondaryColor: #c2edce;
+	--lightColor100: #ffffff;
+	--lightColor200: #f6f6f2;
+	--lightCoror300: #f5f5dc;
+	--darkColor100: #000000;
+
+}
+
+body{
+	font-family: var(--primaryFont);
+	font-size: var(--textFontsize);
+	background-color:var(--secondaryColor);
+}
+
+main{
+	margin-left: 3em;
+}
+
+header{
+	text-align: center;
+	font-size: var(--headingFontsize3);
+	transition: 1s;
+}
+
+header:hover{
+	font-size: var(--headingSize1);
+}
+
+h1, h2{
+	text-transform: uppercase;
+}
+
+h2:hover{
+	color: var(--lightColor200);
+}
+
+.medium{
+	font-size: var(--headingSize2);
+}
+
+.groot{
+	font-size: var(--headingSize1);
+}
+
+.klein{
+	font-size: var(--smallFontsize);
+}
+
+h4{
+	transition: 1s;
+}
+
+h4:hover{
+	font-family: var(--secondaryFont);
+}
+
+h3:hover{
+	color: var(--primaryColor);
+}
+
+nav{
+	background-color: var(--primaryColor);
+	text-align: center;
+	font-family: var(--secondaryFont);
+}
+
+nav ul{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	list-style: none;
+}
+
+nav ul li{
+	padding: 1em;
+	width: 20vw;
+}
+
+nav a{
+	color:var(--lightColor100);
+	text-decoration: none;
+}
+
+nav a:hover{
+	color: var(--lightCoror300);
+	text-decoration: underline;
+}
